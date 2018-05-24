@@ -1,9 +1,9 @@
 # Satria Bayuaji
 Mahasiswa Ilmu Komputer IPB
 
-*Jl Menanti 69 Bogor 57136*\
-*+62 821-1295-0910*\
-*satria.bayuaji1@gmail.com*
+*Jl Menanti 69 Bogor 57136* <br>
+*+62 821-1295-0910* <br>
+*satria.bayuaji1@gmail.com* <br>
 
 ## Pendidikan
 ### Institut Pertanian Bogor — SKomp
